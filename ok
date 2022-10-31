@@ -1,0 +1,14 @@
+
+            int número1;
+            int número2;
+            int total;
+            int total;
+            número1 = 10;
+            número2 = 20;
+            total = número1 + número2;
+            total = total + 2;
+            Console.WriteLine("Boa noite!");
+            Console.WriteLine("técnico");
+            Console.WriteLine("teste");
+            Console.ReadKey();
+            Console.WriteLine("digite seu nome");
